@@ -37,7 +37,7 @@ body {
 .profile_name {
   float: left;
   padding-left: 2cm;
-  color: lightblue;
+  color: lightgray;
   font-size: 30px;
 }
 
@@ -239,7 +239,7 @@ h2 {
 
 .popup {
   width:400px;
-  background-color: #e8bcf0;
+  background-color: lightgray;
   border-radius: 3mm;
   top: 50%;
   left:50%;
